@@ -1,0 +1,10 @@
+[
+  {
+    "Id": 1,
+    "CodigoProduto": 101,
+    "Tipo": "Entrada",
+    "Descricao": "teste",
+    "Quantidade": 100,
+    "Data": "2026-10-05T18:58:27.1284565-03:00"
+  }
+]

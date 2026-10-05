@@ -1,0 +1,29 @@
+{
+  "Estoque": [
+    {
+      "CodigoProduto": 101,
+      "DescricaoProduto": "Caneta Azul",
+      "Estoque": 250
+    },
+    {
+      "CodigoProduto": 102,
+      "DescricaoProduto": "Caderno Universitário",
+      "Estoque": 75
+    },
+    {
+      "CodigoProduto": 103,
+      "DescricaoProduto": "Borracha Branca",
+      "Estoque": 200
+    },
+    {
+      "CodigoProduto": 104,
+      "DescricaoProduto": "Lápis Preto HB",
+      "Estoque": 320
+    },
+    {
+      "CodigoProduto": 105,
+      "DescricaoProduto": "Marcador de Texto Amarelo",
+      "Estoque": 90
+    }
+  ]
+}

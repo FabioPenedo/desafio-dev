@@ -1,0 +1,17 @@
+C:\Users\tenfa\Downloads\Desafio_dev\bin\Debug\net8.0\Dados\estoque.json
+C:\Users\tenfa\Downloads\Desafio_dev\bin\Debug\net8.0\Dados\movimentacoes.json
+C:\Users\tenfa\Downloads\Desafio_dev\bin\Debug\net8.0\Dados\vendas.json
+C:\Users\tenfa\Downloads\Desafio_dev\bin\Debug\net8.0\DesafioDev.exe
+C:\Users\tenfa\Downloads\Desafio_dev\bin\Debug\net8.0\DesafioDev.deps.json
+C:\Users\tenfa\Downloads\Desafio_dev\bin\Debug\net8.0\DesafioDev.runtimeconfig.json
+C:\Users\tenfa\Downloads\Desafio_dev\bin\Debug\net8.0\DesafioDev.dll
+C:\Users\tenfa\Downloads\Desafio_dev\bin\Debug\net8.0\DesafioDev.pdb
+C:\Users\tenfa\Downloads\Desafio_dev\obj\Debug\net8.0\DesafioDev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tenfa\Downloads\Desafio_dev\obj\Debug\net8.0\DesafioDev.AssemblyInfoInputs.cache
+C:\Users\tenfa\Downloads\Desafio_dev\obj\Debug\net8.0\DesafioDev.AssemblyInfo.cs
+C:\Users\tenfa\Downloads\Desafio_dev\obj\Debug\net8.0\DesafioDev.csproj.CoreCompileInputs.cache
+C:\Users\tenfa\Downloads\Desafio_dev\obj\Debug\net8.0\DesafioDev.dll
+C:\Users\tenfa\Downloads\Desafio_dev\obj\Debug\net8.0\refint\DesafioDev.dll
+C:\Users\tenfa\Downloads\Desafio_dev\obj\Debug\net8.0\DesafioDev.pdb
+C:\Users\tenfa\Downloads\Desafio_dev\obj\Debug\net8.0\DesafioDev.genruntimeconfig.cache
+C:\Users\tenfa\Downloads\Desafio_dev\obj\Debug\net8.0\ref\DesafioDev.dll
